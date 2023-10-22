@@ -1,0 +1,17 @@
+/* Add this CSS in your component or import from an external stylesheet */
+label {
+  cursor: pointer;
+  display: inline-block;
+  font-size: 24px; /* Adjust the font size as needed */
+  margin-right: 10px; /* Adjust the spacing between stars as needed */
+}
+
+input[type="radio"] {
+  position: absolute;
+  top: -9999em;
+}
+
+/* Style for a filled star */
+input[type="radio"]:checked + FaStar {
+  color: yellow; /* Change the color to indicate the star is selected */
+}
