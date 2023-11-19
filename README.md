@@ -6,4 +6,3 @@
 + Markdown, Calculator, Pagination , Star Rating , Form Validating, Popups, Countdown, Carousel, Calculator, Fetching Api, Searching, Debouncing, todo,  throtling  and other array & list questions are available.
 ##### will be adding more
 ### Do Upvote
-#### and Share
